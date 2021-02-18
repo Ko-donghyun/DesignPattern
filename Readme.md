@@ -64,7 +64,9 @@
 
 ## Levels of Pattern
  - Architectural Pattern : 소프트웨어의 전체적인 조직과 스키마를 정하는 작업에 쓰이는 패턴, 시스템 전체에 대한 구조
- - Design Pattern : 비교적 작은 규모의 서브시스템에서의 설계 및 그 시스템 간의 관계를 정하는데 쓰이는 패턴, 전체 시스템에 영향이 없음
+ - Design Pattern
+    - 비교적 작은 규모의 서브시스템에서의 설계 및 그 시스템 간의 관계를 정하는데 쓰이는 패턴, 전체 시스템에 영향이 없음
+    - 주로 컴포넌트 내부의 설계에 사용
  - Coding Pattern (programming idiom) : 특정 프로그래밍 언어에 특화된 레벨의 패턴(low-level)
 
 ### Example
